@@ -1,3 +1,4 @@
 a = {'a':'aa', 'b':42}
 for i,r in a.items():
-    print(r)
+    print(r) # prints value
+    print(i) # prints key
