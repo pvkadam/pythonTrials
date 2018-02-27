@@ -1,0 +1,3 @@
+a = {'a':'aa', 'b':42}
+for i,r in a.items():
+    print(r)
